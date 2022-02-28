@@ -5,7 +5,7 @@
 <ul>
   
   <li>🤖 I’m a Moroccan Web Developer.</li>
-  <li>📱 I’m currently trying to learn React Native and Flutter</li>
+  <li>📱 I’m currently trying to learn React Native.</li>
   <li>💬 You can ask me about ML/DL and Python, <a href="https://www.kaggle.com/youssefkizou">@kaggle</a></li>
   <li>📫 You can reach me on <a href="kizou.org">@kizou.org</a></li>
   <li>📚 I am an avowed and persistent appreciator of litterature</li>
